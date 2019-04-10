@@ -69,6 +69,15 @@ img {
 .listing-preview a {
   position: relative; }
 
+footer a{
+  color:#fff;
+}
+
+footer a:link,
+a:visited{
+  color:#fff;
+}
+
 @media (max-width: 991px) {
   #showcase {
     padding-top: 4rem; }
